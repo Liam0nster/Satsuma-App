@@ -14,7 +14,6 @@
 </p>
 
 > The images above and below are renderings of the wheel layout, drawn to match the app's geometry and colors.
-> Replace them with real screenshots whenever you like (see [Contributing](#contributing)).
 
 ---
 
